@@ -1,0 +1,12 @@
+
+# Site settings
+title: DWA Blog
+email: Dashenfelder@gmail.com
+description: My blog will be the journey of my transformation as I become a developer. I will give you a first hand look at Charleston, SC life, and let you sit in the driver seat of my successes and my failures as I learn at The Iron Yard.
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "davidashenfelder.github.io" # the base hostname & protocol for your site
+twitter_username: Brokensurfer
+github_username:  davidashenfelder
+
+# Build settings
+markdown: kramdown
